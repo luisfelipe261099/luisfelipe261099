@@ -64,8 +64,9 @@ timeline
     title Linha do tempo de carreira
     2021 : Sideral Linhas Aereas
     2022 : Besec Tecnologia
-    2024 : Faculdade Faciencia — Desenvolvedor Senior
-    2026 : Estacio — Orientador Educacional : Fix Facil — Founder e CEO
+    2023 : Fix Facil — Founder e CEO (atual)
+    2024 : Faculdade Faciencia — Desenvolvedor Senior (atual)
+    2026 : Estacio — Orientador Educacional (atual)
 ```
 
 </div>
@@ -74,7 +75,7 @@ timeline
 |:--:|:--|:--|
 | **2026 – Atual** | 🎓 Estácio | Orientador Educacional |
 | **2024 – Atual** | 🏫 Faculdade Faciência | Desenvolvedor Sênior |
-| **— – Atual** | 🚀 Fix Fácil | Founder & CEO |
+| **2023 – Atual** | 🚀 Fix Fácil | Founder & CEO |
 | **2022** | 💻 Besec Tecnologia | Tecnologia / Desenvolvimento |
 | **2021** | ✈️ Sideral Linhas Aéreas | Tecnologia / Suporte & Infra |
 
@@ -207,16 +208,22 @@ Plataforma que conecta assistências técnicas a clientes finais, com automaçã
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=luisfelipe261099&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=26d0ce&icon_color=26d0ce&text_color=ffffff&include_all_commits=true&count_private=true" alt="stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisfelipe261099&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=26d0ce&text_color=ffffff&langs_count=8" alt="top langs"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=luisfelipe261099&theme=tokyonight&hide_border=true&background=0D1117&ring=26d0ce&fire=26d0ce&currStreakLabel=26d0ce" alt="streak" width="500"/>
+<!-- Cards de resumo (github-profile-summary-cards — instância estável) -->
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luisfelipe261099&theme=tokyonight" alt="resumo do perfil"/>
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=luisfelipe261099&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" alt="trophies"/>
+<img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=luisfelipe261099&theme=tokyonight" alt="estatísticas"/>
+<img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=luisfelipe261099&theme=tokyonight&utcOffset=-3" alt="horários produtivos"/>
+
+<br/><br/>
+
+<img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luisfelipe261099&theme=tokyonight" alt="linguagens por repositório"/>
+<img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=luisfelipe261099&theme=tokyonight" alt="linguagens por commits"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=luisfelipe261099&theme=tokyonight&hide_border=true&background=0D1117&ring=26d0ce&fire=26d0ce&currStreakLabel=26d0ce" alt="streak" width="500"/>
 
 <br/>
 
